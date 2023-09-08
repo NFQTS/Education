@@ -1,0 +1,6 @@
+For now, we will be listing free courses here.
+
+This will ahve to be built out later.
+
+Machine Learning:
+https://github.com/microsoft/ML-For-Beginners
